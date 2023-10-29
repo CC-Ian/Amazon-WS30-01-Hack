@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Junk")(type "KiCad")(uri "${KIPRJMOD}/Junk.pretty")(options "")(descr ""))
+)
