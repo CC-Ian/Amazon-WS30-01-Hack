@@ -1,0 +1,12 @@
+Component Count:,11,,,,,
+,,,,,,
+Item,Qty,Reference(s),Footprint,Value,LCSC,Datasheet
+1,1,C1,0402,100n,C359190,It’s a capacitor…
+2,1,J1,NoPop,Conn_01x04_Socket,Do NOT Populate,N/A
+3,1,J2,,Conn_02x02_Counter_Clockwise,Strip from device,N/A
+4,1,R1,0402,10k,C25744,It’s a resistor…
+5,1,R2,0603,10k,C103210,It’s a resistor…
+6,3,"SW1, SW2, SW3",,SW_Push,Main Stripped from device,N/A
+7,1,U1,,ESP32-S2-SOLO-2,C3040594,https://datasheet.lcsc.com/lcsc/2208291600_Espressif-Systems-ESP32-S2-SOLO-2-N4_C3040594.pdf
+8,1,U2,,SHTC3,Not on LCSC,https://sensirion.com/media/documents/643F9C8E/63A5A436/Datasheet_SHTC3.pdf
+9,1,U3,2020,XL-2020RGBC-WS2812B,C5349955,https://datasheet.lcsc.com/lcsc/2301111010_XINGLIGHT-XL-2020RGBC-WS2812B_C5349955.pdf
